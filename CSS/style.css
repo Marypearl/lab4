@@ -1,0 +1,52 @@
+header
+{
+    background-image: linear-gradient(white,rgb(89, 225, 243),blue)
+    /* float: left; */
+}
+#img
+{
+    float: left;
+}
+main{
+    background-color: rgb(89, 225, 243);
+    
+}
+
+#nobullet{
+    list-style: none;
+    
+
+}
+#nobullet li{
+    float: left; 
+    padding-right: 20px;
+   
+}
+#backgroundwhite
+{
+    background-color: white;
+    margin-top: 30px;
+    padding-top:20px;
+}
+body{
+    border: 2px solid lightblue;
+    width: 55%;
+    margin: auto;
+}
+#left
+{
+    float: left;
+    text-align: left;
+    height: 695px;
+    margin-right: 20px;   
+}
+
+#redcolor
+{
+    color: brown
+}
+
+footer
+{
+    text-align: center;
+}
